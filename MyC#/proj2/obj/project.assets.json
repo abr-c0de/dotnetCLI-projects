@@ -105,11 +105,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\MyC#\\projs\\proj2\\proj2.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\MyC#\\MyC#\\proj2\\proj2.csproj",
       "projectName": "proj2",
-      "projectPath": "C:\\Users\\Admin\\Desktop\\MyC#\\projs\\proj2\\proj2.csproj",
+      "projectPath": "C:\\Users\\Admin\\Desktop\\MyC#\\MyC#\\proj2\\proj2.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Desktop\\MyC#\\projs\\proj2\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Desktop\\MyC#\\MyC#\\proj2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

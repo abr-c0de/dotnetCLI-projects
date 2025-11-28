@@ -1,92 +1,17 @@
-#.vs
-###############
-# Build Folders
-###############
+# Visual Studio cache folders
+.vs/
+
+# Build output
 bin/
 obj/
-[Bb]uild/
-[Bb]uilds/
-Debug/
-Release/
-out/
-publish/
-dist/
-TestResults/
-coverage/
 
-##############################
-# Visual Studio / VS Code IDE
-##############################
-.vs/
-.vscode/
-.idea/
-*.sln.docstates
-
-###################################
-# User-specific Visual Studio Files
-###################################
+# User-specific files
 *.user
 *.suo
-*.userosscache
-*.csproj.user
 
-############################
-# NuGet Packages & Caches
-############################
-packages/
-*.nupkg
-*.snupkg
-.nuget/
-project.lock.json
-project.fragment.lock.json
-
-#####################
-# ASP.NET Core Files
-#####################
-appsettings.Development.json
-appsettings.Local.json
-appsettings.*.json
-
-#######################
-# Logs / Temp / Cache
-#######################
+# Debug files
 *.log
-*.tlog
-*.tmp
-*.cache
-*.db
-*.pyc
-logs/
 
-#############################
-# Resharper / Rider / JetBrains
-#############################
-*.DotSettings.user
-_ReSharper*/
-*.[Rr]e[Ss]harper
-.idea/
-
-##################
-# OS Generated
-##################
-.DS_Store
-Thumbs.db
-
-#############################
-# Environment & Secret Files
-#############################
-.env
-.env.*
-secrets.json
-
-#########################
-# Misc build artifacts
-#########################
-*.dll
-*.exe
-*.pdb
-*.mdb
-*.xml
-*.json.user
-*.bak
-*.swp
+# Other VS generated files
+*.vcxproj.user
+*.rsuser
