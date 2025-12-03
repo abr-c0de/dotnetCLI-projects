@@ -38,3 +38,9 @@ publish/
 # Temp files
 *.tmp
 *.temp
+
+# C# / .NET
+bin/
+obj/
+*.user
+*.suo
