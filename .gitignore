@@ -1,7 +1,7 @@
-# Visual Studio cache
+###############################
+# Visual Studio / .NET
+###############################
 .vs/
-
-# Build outputs
 bin/
 obj/
 out/
@@ -28,19 +28,48 @@ packages/
 # Publish output
 publish/
 
+###############################
 # Rider IDE
+###############################
 .idea/
 *.iml
 
+###############################
 # VS Code
+###############################
 .vscode/
 
-# Temp files
+###############################
+# General Temp Files
+###############################
 *.tmp
 *.temp
 
-# C# / .NET
-bin/
-obj/
-*.user
-*.suo
+###############################
+# Eclipse (Java Project)
+###############################
+.metadata/
+bin/         # Eclipse build
+tmp/
+*.tmp
+*.bak
+*.swp
+
+# Eclipse project files (optional ignore)
+# Uncomment if you don't want IDE files tracked
+#.project
+#.classpath
+#.settings/
+
+###############################
+# Java Build Outputs
+###############################
+*.class
+target/
+build/
+
+###############################
+# OS-specific
+###############################
+.DS_Store
+Thumbs.db
