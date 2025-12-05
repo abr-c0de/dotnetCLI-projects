@@ -1,23 +1,37 @@
-# C# Console Projects
+# C# OOP and SQL Practice
 
-This repository contains a few simple C# console applications built while learning the basics of C# programming.  
+This repository contains my practice work for **C# Object-Oriented Programming**, **MySQL**, and **SQL Server**.  
+It includes small programs, exercises, and scripts I created while learning backend development.
 
-## Projects
+---
 
-The projects cover basic concepts such as:
+## 📘 C# OOP Practice
+Contains simple console programs demonstrating:
+- Encapsulation  
+- Inheritance  
+- Polymorphism  
+- Abstraction  
+- Interfaces  
+- Static classes  
+- Basic project structure  
 
-- Variables, loops, and methods  
-- Object-Oriented Programming (OOP)  
-- Collections like List<T> and Dictionary<T>  
-- Basic console input/output  
-- Simple use of LINQ methods  
+---
 
-## How to Run
+## 🗄️ MySQL Practice
+Includes:
+- Table creation  
+- Foreign keys  
+- Constraints  
+- Basic queries  
+- Small database examples  
 
-1. Click the `.sln` file in the repository to open the solution in Visual Studio.  
-2. Select the project you want to run.  
-3. Press **F5** or click **Run** to start the program.  
+---
 
-## Purpose
+## 🗃️ SQL Server Practice
+Includes:
+- Table creation  
+- Foreign key constraints  
+- Queries and joins  
+- Simple practice scripts  
 
-These projects are for practice and to strengthen core C# skills.
+---
